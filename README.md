@@ -1,1 +1,1 @@
-password generator -  https://passwordgeneratorbyjanmesh.vercel.app/
+password generator -  https://passwordgeneratorbyjanmesh.vercel.app
